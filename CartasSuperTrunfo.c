@@ -15,13 +15,13 @@ int main() {
     float pib1, pib2;
     int turisticos1, turisticos2;
     printf("Digite a primeira letra do Estado: \n");
-    scanf("%s", &estado1);
+    scanf("%s", estado1);
 
     printf("Digite o codigo da carta: \n");
-    scanf("%s", &carta1);
+    scanf("%s", carta1);
     
     printf("Digite o nome da Cidade: \n");
-    scanf("%s", &cidade1);
+    scanf("%s", cidade1);
 
     printf("Digite a quantidade da populacional da cidade: \n");
     scanf("%d", &populacao1);
@@ -36,13 +36,13 @@ int main() {
     scanf("%d", &turisticos1);
     
     printf("Digite a primeira letra do Estado: \n");
-    scanf("%s", &estado2);
+    scanf("%s", estado2);
 
     printf("Digite o codigo da carta: \n");
-    scanf("%s", &carta2);
+    scanf("%s", carta2);
     
     printf("Digite o nome da Cidade: \n");
-    scanf("%s", &cidade2);
+    scanf("%s", cidade2);
 
     printf("Digite a quantidade da populacional da cidade: \n");
     scanf("%d", &populacao2);
