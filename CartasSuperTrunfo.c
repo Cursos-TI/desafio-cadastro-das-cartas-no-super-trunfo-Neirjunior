@@ -101,5 +101,6 @@ int main() {
     printf("PIB percapito: Carta 1 venceu? (%d)\n", pibpercapito1 > pibpercapito2);
     printf("Super poder: Carta 1 venceu? (%d)\n", superpoder1 > superpoder2);
 
+    return 0;
 
 }
